@@ -4,6 +4,7 @@
 #*** 2)use encryption to make it secure
 #*** 3) decryption on copying
 #*** 4) use some easy algo
+#***%5) sone changes
 
 
 #dictonary to be replace by file
