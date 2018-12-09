@@ -48,9 +48,3 @@ with open(r'password.csv','a',newline='\n') as mypasswrite:
     writer.writerow({'firstname':firstname,'account':account,'password':password})
     print('added succesfully')
     sys.exit()
-
-
-
-
-
-
